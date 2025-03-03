@@ -24,6 +24,7 @@ This Power BI project analyzes Credit cated transactions and customer data throu
   * **SQL** (for data preparation and importing files)
 
 📈 **Key Insights & Findings**
+
   ✔️ Identified which expenditure types contribute the most to revenue.
   ✔️ Analyzed customer segments generating the highest revenue.
   ✔️ Found trends based on income levels and marital status.
